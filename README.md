@@ -30,6 +30,12 @@ The objective of this project is to analyze Indian company registration data to 
 To examine spatial and temporal patterns in company incorporations across Indian states (up to 2024), and analyze how company types and capital investments vary by region.
 
 ---
+## 📂 Dataset
+
+Due to GitHub file size limitations, the dataset is hosted externally:
+
+🔗 [Download Dataset](YOUR_GOOGLE_DRIVE_LINK)
+---
 
 ## 📂 Dataset Overview
 
