@@ -34,7 +34,7 @@ To examine spatial and temporal patterns in company incorporations across Indian
 
 Due to GitHub file size limitations, the dataset is hosted externally:
 
-🔗 [Download Dataset]([YOUR_GOOGLE_DRIVE_LINK](https://drive.google.com/drive/folders/1qTOIP-U5TzoTKgpMAWZUUQyZ8rySzC8i?usp=sharing))
+🔗 [Download Dataset](https://drive.google.com/drive/folders/1qTOIP-U5TzoTKgpMAWZUUQyZ8rySzC8i?usp=sharing)
 ---
 
 ## 📂 Dataset Overview
